@@ -1,0 +1,12 @@
+{
+    "domain": "area_manager",
+    "name": "Area Manager",
+    "version": "1.0",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@kallesvenssonn"],
+    "documentation": "https://github.com/karlsvenssonn/homeassistant-area-manager",
+    "iot_class": "calculated",
+    "issue_tracker": "https://github.com/karlsvenssonn/homeassistant-area-manager/issues"
+  }
+  
