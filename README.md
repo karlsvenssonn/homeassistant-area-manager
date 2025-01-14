@@ -1,2 +1,2 @@
 # homeassistant-area-manager
-Tool to dynamically change the area of home assistant devices
+custom component to dynamically change the area of home assistant entities
